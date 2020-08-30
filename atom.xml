@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://leohu.me/"/>
-  <updated>2020-08-26T08:12:20.536Z</updated>
+  <updated>2020-08-30T05:30:24.868Z</updated>
   <id>https://leohu.me/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>shadowsocks一键安装脚本</title>
+    <link href="https://leohu.me/2020/08/30/shadowsocks%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC/"/>
+    <id>https://leohu.me/2020/08/30/shadowsocks%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC/</id>
+    <published>2020-08-30T05:30:40.577Z</published>
+    <updated>2020-08-30T05:30:24.868Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;脚本来自逗Boy，ss确实占用内存要小一些&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="see the world" scheme="https://leohu.me/tags/see-the-world/"/>
+    
+  </entry>
   
   <entry>
     <title>使用 iperf3 工具测试本地到 VPS 的连接速度</title>
@@ -505,31 +531,6 @@
     
     
       <category term="人工智能与脑认知" scheme="https://leohu.me/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E8%84%91%E8%AE%A4%E7%9F%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>RNN LSTM &amp; GRU基础</title>
-    <link href="https://leohu.me/2020/06/07/RNN&amp;LSTM%E5%9F%BA%E7%A1%80/"/>
-    <id>https://leohu.me/2020/06/07/RNN&amp;LSTM%E5%9F%BA%E7%A1%80/</id>
-    <published>2020-06-07T04:00:19.951Z</published>
-    <updated>2020-06-07T04:00:08.055Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h3 id=&quot;废话&quot;&gt;&lt;a href=&quot;#废话&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="nlp" scheme="https://leohu.me/tags/nlp/"/>
     
   </entry>
   
