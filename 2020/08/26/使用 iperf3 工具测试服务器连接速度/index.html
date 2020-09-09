@@ -35,7 +35,7 @@ macOS 或 Windows 系统，"><meta name="keywords" content=""><meta content="wid
 
 <p>然后在本机发起测速。其中 <code>-c</code> 参数表示客户端并指定测速服务器地址，<code>-p</code> 指定服务器端口，<code>-t</code> 指定测试时长（单位秒），<code>-P</code> 指定并发连接数（越高越能测试到速度极限），<code>-R</code> 表示下载测速（不加参数则测试上传速度）。如果要测试 UDP 连接，追加 <code>-u</code> 参数。<a href="http://software.es.net/iperf/invoking.html#iperf3-manual-page" target="_blank" rel="noopener">点此查看完整参数</a>。</p>
 <p><strong>Linux向Linux端</strong></p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">iperf3 -c x.x.x.x -p 5201 -t 60 -P 10 -R</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">iperf3 -c x.x.x.x -p 5201 -t 30 -P 1 -R</span><br></pre></td></tr></table></figure>
 
 <p><strong>Windows端向Linux端</strong></p>
 <p>打开<code>cmd</code>窗口，cd到iperf3目录下，执行下面的命令就行了，如果是Nat VPS要提前映射好端口(下面44303端口映射5201端口)</p>
