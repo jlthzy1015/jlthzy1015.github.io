@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://leohu.me/"/>
-  <updated>2020-10-22T14:52:46.688Z</updated>
+  <updated>2020-11-25T15:29:51.389Z</updated>
   <id>https://leohu.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小作文</title>
+    <link href="https://leohu.me/2020/11/25/a%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E5%B0%8F%E4%BD%9C%E6%96%87/"/>
+    <id>https://leohu.me/2020/11/25/a%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E5%B0%8F%E4%BD%9C%E6%96%87/</id>
+    <published>2020-11-25T15:30:04.281Z</published>
+    <updated>2020-11-25T15:29:51.389Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;回复信&quot;&gt;&lt;a href=&quot;#回复信&quot; class=&quot;headerlink&quot; title=&quot;回复信&quot;&gt;&lt;/a&gt;回复信&lt;/h3&gt;&lt;h4 id=&quot;Page1&quot;&gt;&lt;a href=&quot;#Page1&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="考研" scheme="https://leohu.me/tags/%E8%80%83%E7%A0%94/"/>
+    
+  </entry>
   
   <entry>
     <title>王道数据结构</title>
@@ -508,33 +533,6 @@
     
     
       <category term="人工智能与脑认知" scheme="https://leohu.me/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E8%84%91%E8%AE%A4%E7%9F%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>VPS DNS修改+TCP回程测试+性能测试脚本</title>
-    <link href="https://leohu.me/2020/06/20/vps%20DNS%E4%BF%AE%E6%94%B9/"/>
-    <id>https://leohu.me/2020/06/20/vps%20DNS%E4%BF%AE%E6%94%B9/</id>
-    <published>2020-06-20T00:01:12.551Z</published>
-    <updated>2020-07-02T00:06:49.480Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;最近入手了两台VPS，水墨云的香港三网cn2 gia和美西安畅cn2 gia。&lt;/p&gt;
-&lt;p&gt;香港服务器折扣下来350/年，100M带宽，优质线路，简直不要太香，爱了爱了！&lt;/p&gt;
-&lt;h3 id=&quot;Cent-OS&quot;&gt;&lt;a href=&quot;#Cent-OS&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="vps" scheme="https://leohu.me/tags/vps/"/>
     
   </entry>
   
