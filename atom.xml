@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://leohu.me/"/>
-  <updated>2020-12-03T14:21:17.243Z</updated>
+  <updated>2020-12-08T16:26:05.416Z</updated>
   <id>https://leohu.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>英语作文</title>
+    <link href="https://leohu.me/2020/12/09/a%E5%A4%A7%E4%BD%9C%E6%96%87/"/>
+    <id>https://leohu.me/2020/12/09/a%E5%A4%A7%E4%BD%9C%E6%96%87/</id>
+    <published>2020-12-08T16:26:31.122Z</published>
+    <updated>2020-12-08T16:26:05.416Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;模板&quot;&gt;&lt;a href=&quot;#模板&quot; class=&quot;headerlink&quot; title=&quot;模板&quot;&gt;&lt;/a&gt;模板&lt;/h3&gt;&lt;h5 id=&quot;1-积极-数据对比类-2014年英2大作文&quot;&gt;&lt;a href=&quot;#1-积极-数据对比类-2014年英2大作文&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="考研" scheme="https://leohu.me/tags/%E8%80%83%E7%A0%94/"/>
+    
+  </entry>
   
   <entry>
     <title>政治易错点</title>
@@ -494,34 +519,6 @@
         
           &lt;p&gt;1.首先进入root模式&lt;/p&gt;
 &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="vps" scheme="https://leohu.me/tags/vps/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>justhost新西伯利亚vps测试</title>
-    <link href="https://leohu.me/2020/07/01/justhost%E6%96%B0%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9Avps%E6%B5%8B%E8%AF%95%E8%BF%87/"/>
-    <id>https://leohu.me/2020/07/01/justhost%E6%96%B0%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9Avps%E6%B5%8B%E8%AF%95%E8%BF%87/</id>
-    <published>2020-07-01T08:51:59.151Z</published>
-    <updated>2020-07-01T08:51:44.944Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;最近有客户需要俄罗斯的vps，之前恰好了解过justhost，就拿了一台试试。&lt;/p&gt;
-&lt;p&gt;9rmb/月，一台小小鸡，除了富强基本没啥用&lt;/p&gt;
-&lt;p&gt;200M共享带宽，下午闲时测试&lt;/p&gt;
-&lt;h3 id=&quot;三网测速&quot;&gt;&lt;a href=&quot;#三网测速&quot;
         
       
     
