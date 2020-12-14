@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://leohu.me/"/>
-  <updated>2020-12-08T16:26:05.416Z</updated>
+  <updated>2020-12-14T08:09:38.814Z</updated>
   <id>https://leohu.me/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>作文模板+素材积累</title>
+    <link href="https://leohu.me/2020/12/14/a%E6%A8%A1%E6%9D%BF+%E7%B4%A0%E6%9D%90%E7%A7%AF%E7%B4%AF/"/>
+    <id>https://leohu.me/2020/12/14/a%E6%A8%A1%E6%9D%BF+%E7%B4%A0%E6%9D%90%E7%A7%AF%E7%B4%AF/</id>
+    <published>2020-12-14T08:10:52.789Z</published>
+    <updated>2020-12-14T08:09:38.814Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;大作文&quot;&gt;&lt;a href=&quot;#大作文&quot; class=&quot;headerlink&quot; title=&quot;大作文&quot;&gt;&lt;/a&gt;大作文&lt;/h2&gt;&lt;p&gt;按照有无时间轴分为静态图和动态图&lt;/p&gt;
+&lt;p&gt;第一段通常是总起+描述图中的数据&lt;/p&gt;
+&lt;h3 id=&quot;第一段&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="考研" scheme="https://leohu.me/tags/%E8%80%83%E7%A0%94/"/>
+    
+  </entry>
   
   <entry>
     <title>英语作文</title>
@@ -501,32 +528,6 @@
     
     
       <category term="learn" scheme="https://leohu.me/tags/learn/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>谷歌云vps允许使用第三方SSH工具</title>
-    <link href="https://leohu.me/2020/07/07/GCP%E4%BD%BF%E7%94%A8%E7%AC%AC%E4%B8%89%E6%96%B9SSH/"/>
-    <id>https://leohu.me/2020/07/07/GCP%E4%BD%BF%E7%94%A8%E7%AC%AC%E4%B8%89%E6%96%B9SSH/</id>
-    <published>2020-07-07T12:29:32.692Z</published>
-    <updated>2020-07-07T12:27:11.950Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;1.首先进入root模式&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="vps" scheme="https://leohu.me/tags/vps/"/>
     
   </entry>
   
