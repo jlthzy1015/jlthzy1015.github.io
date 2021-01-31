@@ -229,7 +229,7 @@
     <link href="https://leohu.me/2020/08/24/v2board%E5%AF%B9%E6%8E%A5soga%E5%90%8E%E7%AB%AF/"/>
     <id>https://leohu.me/2020/08/24/v2board%E5%AF%B9%E6%8E%A5soga%E5%90%8E%E7%AB%AF/</id>
     <published>2020-08-24T04:43:04.183Z</published>
-    <updated>2020-08-24T04:47:39.418Z</updated>
+    <updated>2021-01-31T04:35:15.432Z</updated>
     
     <summary type="html">
     
@@ -237,8 +237,7 @@
       
         
         
-          &lt;h3 id=&quot;1-创建节点&quot;&gt;&lt;a href=&quot;#1-创建节点&quot; class=&quot;headerlink&quot; title=&quot;1.创建节点&quot;&gt;&lt;/a&gt;1.创建节点&lt;/h3&gt;&lt;p&gt;此步骤在v2board前端页面进行操作，注意如果使用ws一定要配置path&lt;/p&gt;
-&lt;figure
+          &lt;h3 id=&quot;0-BBR加速&quot;&gt;&lt;a href=&quot;#0-BBR加速&quot; class=&quot;headerlink&quot; title=&quot;0.BBR加速&quot;&gt;&lt;/a&gt;0.BBR加速&lt;/h3&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td
         
       
     
