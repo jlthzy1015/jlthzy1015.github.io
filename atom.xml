@@ -212,7 +212,9 @@
         
         
           &lt;blockquote&gt;
-&lt;p&gt;用 &lt;a href=&quot;http://software.es.net/iperf/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;iperf3&lt;/a&gt; 这个工具可以从本地测试 VPS 可达的最大带宽速度，支持 TCP /UDP
+&lt;p&gt;用 &lt;a href=&quot;http://software.es.net/iperf/&quot;&gt;iperf3&lt;/a&gt; 这个工具可以从本地测试 VPS 可达的最大带宽速度，支持 TCP /UDP 多线程并发测速&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3
         
       
     
